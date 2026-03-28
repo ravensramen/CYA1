@@ -1,3 +1,5 @@
+##CYA-1 Internship Oppurtunity Exploration
+
 This summer or in the following year, I plan to get an internship or career experience that will add more credibility to my resume and help me determine what niche of computer science I want to work and study in most. In the past, I have liked modifying operating systems or working with creative software but I am open to trying anything.
 
 For my first CYA I reached out to employers, took advantage of WSU’s career resources, updated my resume, and managed to get an interview. This process has taken me many hours and will continue after this assignment is done and likely throughout the rest of my career. Getting my first interview was a milestone I reached, and although I didn’t land the role, my search continues. 
