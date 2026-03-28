@@ -1,4 +1,4 @@
-##CYA-1 Internship Oppurtunity Exploration
+## CYA-1 Internship Oppurtunity Exploration
 
 This summer or in the following year, I plan to get an internship or career experience that will add more credibility to my resume and help me determine what niche of computer science I want to work and study in most. In the past, I have liked modifying operating systems or working with creative software but I am open to trying anything.
 
